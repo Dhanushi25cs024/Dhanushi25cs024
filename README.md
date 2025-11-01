@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-!--<h1 align="center">👋 Hey there, I'm [Dhanushi]!</h1>
+!--<h1 align="center">👋 Hey there, I'm Dhanushi!</h1>
 
 <p align="center">
   🎓 First-Year CSE Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner  
