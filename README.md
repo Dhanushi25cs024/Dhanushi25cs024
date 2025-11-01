@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <h1 align="center">👋 Hey there, I'm Dhanushi!</h1>
-
 <p align="center">
   🎓 First-Year CSE Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner  
 </p>
@@ -35,5 +34,6 @@
 - ✅ Contribute to **open-source** projects  
 - 📘 Learn **Data Structures and Algorithms** thoroughly  
 - 💻 Participate in **coding challenges & hackathons**
+
 
 
