@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering**.  
+- 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering in Charusat university**.  
 - 🌱 I'm learning the fundamentals of **C programming, Data Structures**, and exploring **Web Development**.  
 - 💡 I’m passionate about **problem-solving**, **technology**, and **open-source projects**.  
 - 🎯 My goal is to become a **skilled software engineer** and contribute to impactful tech solutions.  
